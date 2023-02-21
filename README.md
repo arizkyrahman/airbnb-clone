@@ -17,5 +17,16 @@ The project is built using the following technologies:
 - Node.js: A cross-platform runtime environment that allows developers to run JavaScript on the server-side.
 
 ## Installation
-1. Clone the repository:
-`git clone https://github.com/arizkyrahman/airbnb-clone`
+1. Clone the repository: `git clone https://github.com/arizkyrahman/airbnb-clone`
+2. Change into the project directory: `cd airbnb-clone`
+3. Install the dependencies: `yarn`
+4. Start the development server: `yarn dev`
+
+## Deployment
+The application can be deployed to a cloud hosting platform such as Heroku or AWS. Before deploying, be sure to set the environment variables for the production environment in the hosting platform. You can use a service like mLab or Atlas to host your MongoDB database.
+
+## Credits
+This project was built by [Your Name].
+
+## License
+This project is licensed under the MIT License. Feel free to use, modify and distribute the code.
